@@ -15,17 +15,16 @@ I'm on a journey from IT support into DevOps and data engineering, learning by b
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Bash"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="40" height="40" alt="Azure"/>
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="40" height="40" alt="Terraform"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="SQL"/>
-  <img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" width="40" height="40" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 </p>
 
 ---
