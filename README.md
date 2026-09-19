@@ -2,11 +2,11 @@
 
 # Hi there, I'm Ahmed 👋
 
-📍 Based in Milton Keynes, UK &nbsp;|&nbsp; 🔧 Building scalable, reliable infrastructure
+📍 Based in London, UK &nbsp;|&nbsp; 🔧 Building scalable, reliable infrastructure
 
 **DevOps Engineer | Linux | Python | AWS | Azure | Kubernetes | Terraform | SQL**
 
-I'm on a journey from IT support into DevOps and data engineering, learning by breaking things and fixing them properly.
+Breaking things, fixing things, occasionally on purpose. DevOps Engineer, sharing what I build along the way
 
 </div>
 
