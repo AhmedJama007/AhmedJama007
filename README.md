@@ -48,8 +48,7 @@ Always open to talking about DevOps, Linux, or data engineering. Feel free to re
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedJama007&show_icons=true&theme=dark&hide_border=true" alt="Ahmed's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedJama007&theme=dark&hide_border=true" alt="Ahmed's Streak" height="165"/>
+  <img src="./profile/stats.svg" alt="Ahmed's GitHub Stats" height="165"/>
 </p>
 
 ---
